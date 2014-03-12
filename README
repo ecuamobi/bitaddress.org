@@ -2,16 +2,15 @@ premine-address
 JavaScript Client-Side Preminecoin Wallet Generator
 
 IMPORTANT:
-Source code of file preminer.html has been signed with PMC address 1PReMineAW3HpA2hd3H1JB4RFUfc12XhwF
+File http://preminer.com/index.html has the following SHA-256 hash for each version:
 
-The same address and signature must be published in https://bitcointalk.org/?topic=513101
+(The same hash must be published in https://bitcointalk.org/?topic=513101)
 
-DO NOT USE IF SIGNATURE DOES NOT MATCH, IF SIGNED WITH ANOTHER ADDRESS,
-OR IF SIGNATURE DON'T MATCH THE ONE PUBLISHED IN BITCOINTALK.
+Version 2.8.1:
+20804f8ca188a42ac7dcc55ee5d3cc876dc889b4ed7bfd1dea0536c9c4e9f1b9
 
-
-Version 2.8.1
-G9nkhqAiYRUFBa8nAZjrHcBSnwn6wiOAdPytYKbIYb0Z4iZkP5Dw4RYIszT/bpfF4dJBPe/P3TFr0lhzuezXWkg=
+This hash was calculated with the command:
+shasum -a 256
 
 
 Now Premine addresses and their corresponding private key can be conveniently 
