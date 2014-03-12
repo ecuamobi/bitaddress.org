@@ -9,10 +9,9 @@ The same address and signature must be published in https://bitcointalk.org/?top
 DO NOT USE IF SIGNATURE DOES NOT MATCH, IF SIGNED WITH ANOTHER ADDRESS,
 OR IF SIGNATURE DON'T MATCH THE ONE PUBLISHED IN BITCOINTALK.
 
-Version            Signature
--------            ------------
-2.8.1              HC79Q9W3fpjxHnnIhNJYtNimdyp5CBNXflNdM5GbCxqE48kvhFJeN+GuZ4gzYIskmmQByU0SBEi5U7ibkNoTIAM=
 
+Version 2.8.1
+G9IzONbL7qGbkNxgDI+EhuWbUrV4WHwfqdY85MVGIm8zCgTTyKV/lNHYXrSdb1vgulN8V/aLPe+IqbyNrqdd7Js=
 
 
 Now Premine addresses and their corresponding private key can be conveniently 
